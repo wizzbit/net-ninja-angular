@@ -1,0 +1,25 @@
+[{
+	"name": "Yoshi",
+	"belt": "yellow",
+	"rate": 50,
+	"available": true,
+	"thumb": "content/gary-linekar-cartoon.jpg"
+}, {
+	"name": "crystal",
+	"belt": "green",
+	"rate": 40,
+	"available": true,
+	"thumb": "content/dd223592a3db79a6d26761d247e8c7de.jpg"
+}, {
+	"name": "ryu",
+	"belt": "red",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/030fae34f5d5cf014ec22574ffc2c910.jpg"
+}, {
+	"name": "nathan",
+	"belt": "black",
+	"rate": 1000,
+	"available": true,
+	"thumb": "content/3fa79d576ee0ada1d99e2d42d558bed9.jpg"
+}]
