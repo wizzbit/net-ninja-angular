@@ -15,6 +15,10 @@ myNinjaApp.config(['$routeProvider', function($routeProvider){
     controller: 'ContactController'
   })
 
+  .when('/contact-success', {
+    templateUrl: 'views/contact-success.html',
+    controller: 'ContactController'
+  })
 
   .when('/directory', {
     templateUrl: 'views/directory.html',
